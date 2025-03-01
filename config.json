@@ -2,7 +2,7 @@
     "initial_parameters": 2,
     "initial_threads": "900",
     "initial_packets": "0",
-    "initial_binary": "pathan",
+    "initial_binary": "flash.txt",
     "max_attack_time": 240,
     "attack_cooldown": 300
 }
